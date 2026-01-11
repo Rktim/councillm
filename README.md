@@ -4,6 +4,11 @@
 
 This project focuses on **correctness, transparency, and control**, not theatrics.
 ---
+<a href="https://github.com/Rktim/ezyml/blob/main/LICENSE">
+  <img alt="License" src="https://img.shields.io/github/license/Rktim/ezyml?color=blue">
+</a>
+<img alt="Python Versions" src="https://img.shields.io/pypi/pyversions/ezyml?logo=python&logoColor=white">
+
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/councillm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=BRIGHTGREEN&left_text=downloads)](https://pepy.tech/projects/councillm)
 ---
 ## ✨ Key Features
