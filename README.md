@@ -4,7 +4,8 @@
 
 This project focuses on **correctness, transparency, and control**, not theatrics.
 ---
-
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/councillm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=BRIGHTGREEN&left_text=downloads)](https://pepy.tech/projects/councillm)
+---
 ## ✨ Key Features
 
 * 🔁 **Multi‑Model Reasoning** (Generator → Critic → Chairman)
