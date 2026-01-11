@@ -3,7 +3,7 @@
 **councillm** is a lightweight, transparent *LLM Council* framework built on **Ollama**. It orchestrates multiple local language models into a structured decision-making pipeline inspired by Andrej Karpathy’s *LLM Council* concept — but designed for **local-first**, **observable**, and **practical CLI usage**.
 
 This project focuses on **correctness, transparency, and control**, not theatrics.
-![Python](https://img.shields.io/pypi/pyversions/councillm)
+![Python]([![PyPI Downloads](https://static.pepy.tech/badge/councillm
 ---
 
 ## ✨ Key Features
