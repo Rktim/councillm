@@ -1,4 +1,5 @@
-# councillm
+![cc](https://github.com/user-attachments/assets/c19c0eb8-ee22-4b08-be4e-b1545bafc78b)
+
 
 **councillm** is a lightweight, transparent *LLM Council* framework built on **Ollama**. It orchestrates multiple local language models into a structured decision-making pipeline inspired by Andrej Karpathy’s *LLM Council* concept — but designed for **local-first**, **observable**, and **practical CLI usage**.
 
